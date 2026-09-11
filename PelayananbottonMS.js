@@ -69,13 +69,13 @@
 
             {
                 text: "WhatsApp",
-                link: "https://urlmsshorten.com/whatsapp-official",
+                link: "https://urlmsshorten.com/livechatmauslot",
                 icon: "http://plcl.me/images/MkruR.gif"
             },
 
             {
                 text: "Telegram",
-                link: "https://urlmsshorten.com/telegram-official",
+                link: "https://urlmsshorten.com/livechatmauslot",
                 icon: "https://image2url.com/r2/default/gifs/1770700610847-5608a590-8121-4edc-8629-e5a2e5294207.gif"
             },
 
